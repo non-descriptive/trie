@@ -1,8 +1,7 @@
 #include <iostream>
-
+#include "Trie.hpp"
 
 int main()
 {
-    std::cout << "Hello world!" << std::endl;
     return 0;
 }
